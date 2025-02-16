@@ -2,9 +2,11 @@
     <h1>我的电视</h1>
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yaoxieyoulei/mytv-android)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/yaoxieyoulei/mytv-android)
 ![GitHub all releases](https://img.shields.io/github/downloads/yaoxieyoulei/mytv-android/total)
+[![Android Sdk Require](https://img.shields.io/badge/Android-5.0%2B-informational?logo=android)](https://apilevels.com/#:~:text=Jetpack%20Compose%20requires%20a%20minSdk%20of%2021%20or%20higher)
+[![GitHub](https://img.shields.io/github/license/yaoxieyoulei/mytv-android)](https://github.com/yaoxieyoulei/mytv-android)
 
 </div>
     <p>使用Android原生开发的电视直播软件</p>
@@ -107,6 +109,10 @@
 - [x] 自定义节目单
 - [x] 频道收藏
 - [x] 应用自定义设置
+- [x] TV端适配
+- [ ] 手机端适配
+- [ ] 平板端适配
+- [ ] 性能优化
 
 ## 更新日志
 
@@ -115,12 +121,6 @@
 ## 声明
 
 此项目（我的电视）是个人为了兴趣而开发, 仅用于学习和测试。 所用API皆从官方网站收集, 不提供任何破解内容。
-
-## 技术交流
-
-Telegram: https://t.me/mytv_android
-
-QQ群: 807328577
 
 ## 赞赏
 
